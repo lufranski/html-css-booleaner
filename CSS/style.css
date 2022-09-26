@@ -25,3 +25,27 @@ footer {
     font-size: 14px;
     color: gray;
 }
+
+/* Regole main */
+
+main {
+    font-size: 14px;
+}
+
+#titolo {
+    color: grey;
+}
+
+h1 {
+    font-size: 40px;
+    color: black;
+}
+
+span {
+    color: cornflowerblue;
+}
+
+#data {
+    font-size: 12px;
+    color: grey;
+}

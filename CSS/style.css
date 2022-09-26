@@ -18,3 +18,10 @@ header {
     height: 10%;
     padding-top: 4%;
 }
+
+/* Regole footer */
+
+footer {
+    font-size: 14px;
+    color: gray;
+}
